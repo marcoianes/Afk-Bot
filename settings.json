@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "kakkaemme.aternos.me",
+    "port": 28293,
     "version": "1.19.3"
   },
 
